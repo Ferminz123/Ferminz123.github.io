@@ -1,0 +1,41 @@
+body{
+    background-color: aquamarine;
+    }
+    
+*{
+    color: border black;
+    font-family: 'Roboto Condensed', sans-serif;
+        
+    }
+    
+    
+p{
+    color: red;
+    width: 300px;
+}
+
+#h{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 30px;
+    color: red;
+    font-weight: 300px; 
+
+    }
+section {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 30px;
+    color: red;
+    font-weight: 300px; 
+
+    }
+/**
+comentarios
+top
+botom
+left
+rigth
+
+t-b-l-f
+*/
